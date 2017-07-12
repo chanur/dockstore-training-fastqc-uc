@@ -18,7 +18,7 @@ hints:
     coresMin: 4
     ramMin: 1000
 
- inputs:
+inputs:
   fastq:
     type: File
     doc: "Fastq file to be analyzed"
